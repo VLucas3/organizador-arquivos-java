@@ -1,0 +1,7 @@
+﻿# Arquivos compilados
+*.class
+*.jar
+
+# Pastas de IDE
+.idea/
+bin/
